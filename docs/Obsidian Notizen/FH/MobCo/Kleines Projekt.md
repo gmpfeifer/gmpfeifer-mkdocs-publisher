@@ -28,3 +28,6 @@ C -->|One| D[Satic Site Generator - 11ty?];
 
 
 ```
+
+
+Weiter zu Starter Template überlegungen [[Welches Starter Template?]]
