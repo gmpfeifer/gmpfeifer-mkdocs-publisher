@@ -1,11 +1,11 @@
-site_name: gmpfeifer
+site_name: gmpfeifer Wiki
 site_description: gmpfeifer's MKDocs Test
 site_url: https://gmpfeifer.github.io/gmpfeifer-mkdocs-publisher/
 
 theme:
   name: "material"
-  logo: assets/logo/favicons.png
-  favicon: assets/logo/favicons.png
+  logo: assets/logo/gm.png
+  favicon: assets/logo/gm.png
   custom_dir: overrides
   font:
     text: Karla
@@ -15,19 +15,19 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: indigo
+      accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/lightbulb-outline
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: indigo
+      primary: indigo
+      accent: blue
       toggle:
-        icon: material/toggle-switch
+        icon: material/lightbulb
         name: Switch to light mode
   features:
     - navigation.indexes
@@ -35,8 +35,16 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
+
 # Extensions
 markdown_extensions:
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: gmpfeifer
+      repo: gmpfeifer-mkdocs-publisher
+  - pymdownx.betterem:
+      smart_enable: all
+  - md_in_html
   - footnotes
   - nl2br
   - attr_list
@@ -73,7 +81,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_div_format
         - name: mermaid
           class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - search
   - ezlinks:
