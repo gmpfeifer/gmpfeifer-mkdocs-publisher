@@ -26,7 +26,7 @@ Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 
 #### In Obsidian folgendes einfügen
 ````markdown title="Keyboard keys"
-	```markdown title="Keyboard keys"
+	``` markdown title="Keyboard keys"
 	++ctrl+alt+del++
 	```
 	
@@ -36,9 +36,9 @@ Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 ````
 
 #### In der mkdocs.yml
-```yml
-markdown_extensions:
-	- md_in_html
+``` yaml
+	markdown_extensions:
+		- md_in_html
 ```
 
 
