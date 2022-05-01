@@ -6,4 +6,4 @@ category: Obsidian Notizen
 # Music Theory
 
 ## Circle of Triads
-![[circleOfThirds-triadRTF.svg]]
+![[Bildschirmfoto 2022-05-01 um 18.03.14.png]]
