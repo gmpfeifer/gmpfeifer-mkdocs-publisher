@@ -56,6 +56,8 @@ graph LR
 ```
 
 
+
+
 ## Obsidian Callouts Test
 !!! INFO
 	Test eines Obsidian Callouts
