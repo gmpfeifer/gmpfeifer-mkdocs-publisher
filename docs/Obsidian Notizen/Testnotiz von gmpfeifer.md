@@ -11,7 +11,7 @@ category: Obsidian Notizen
 
 
 ### "Ergebniskästchen"
-**Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht**:
+Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 
 ``` markdown title="Keyboard keys"
 ++ctrl+alt+del++
@@ -34,6 +34,12 @@ category: Obsidian Notizen
 	++ctrl+alt+del++
 	</div>
 ````
+
+#### In der mkdocs.yml
+```yml
+markdown_extensions:
+	- md_in_html
+```
 
 
 
