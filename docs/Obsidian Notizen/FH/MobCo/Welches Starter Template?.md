@@ -1,6 +1,6 @@
 ---
 share: True
-description: 11ty Grundinstallation auf Raspberry
+description: "Welche 11ty starter page? Tests dazu hier"
 category: Obsidian Notizen/FH/MobCo
 ---
 # Which eleventy starter page for a blog?

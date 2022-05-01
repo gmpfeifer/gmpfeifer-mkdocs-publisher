@@ -1,6 +1,6 @@
 ---
 share: True
-description: 11ty Grundinstallation auf Raspberry
+description: Kleines Projekt in Mobile Computing Vorlesung
 category: Obsidian Notizen/FH/MobCo
 ---
 # Kleines Projekt

@@ -1,6 +1,6 @@
 ---
 share: True
-description: 11ty Grundinstallation auf Raspberry
+description: Github Actions Runner Setup am Raspberry Pi
 category: Obsidian Notizen/FH/MobCo
 ---
 # Github Actions Runner

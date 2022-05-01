@@ -1,6 +1,6 @@
 ---
 share: True
-description: 11ty Grundinstallation auf Raspberry
+description: Hardware für großes Projekt in MobCo
 category: Obsidian Notizen/FH/MobCo
 ---
 # Hardware
