@@ -33,4 +33,10 @@ graph LR
 ```
 
 !!! INFO
-	kagge
+	Test eines Obsidian Callouts
+
+!!! BUG
+	Test eines Obsidian Callouts
+
+!!! Warning
+	Test eines Obsidian Callouts
