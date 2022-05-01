@@ -10,7 +10,7 @@ category: Obsidian Notizen
 **Ist da wer?**
 
 
-### "Ergebniskästchen"
+## "Ergebniskästchen"
 Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 
 ``` markdown title="Keyboard keys"
@@ -24,7 +24,7 @@ Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 
 </div>
 
-#### In Obsidian folgendes einfügen
+### In Obsidian folgendes einfügen
 ````markdown title="Keyboard keys"
 	``` markdown title="Keyboard keys"
 	++ctrl+alt+del++
@@ -35,7 +35,7 @@ Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 	</div>
 ````
 
-#### In der mkdocs.yml
+### In der mkdocs.yml
 folgendes bei den Extensions hinzufügen
 ```yaml title="mkdocs.yml" hl_lines="3"
 # Extensions
@@ -45,7 +45,7 @@ markdown_extensions:
 
 
 
-Graph Test
+## Graph Test
 ``` mermaid
 graph LR
   A[Start] --> B{Error?};
@@ -55,6 +55,8 @@ graph LR
   B ---->|No| E[Yay!];
 ```
 
+
+## Obsidian Callouts Test
 !!! INFO
 	Test eines Obsidian Callouts
 
