@@ -52,7 +52,7 @@ markdown_extensions:
   - meta
   - smarty
   - tables
-  - mdx_breakless_lists
+  #- mdx_breakless_lists <----- This line breaks mkdocs CodeBlocks (adds empty line to yml code Examples)
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.details

@@ -36,15 +36,10 @@ Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 ````
 
 #### In der mkdocs.yml
-```yaml title="mkdocs.yml"
+folgendes bei den Extensions hinzufügen
+```yaml title="mkdocs.yml" hl_lines="2"
 # Extensions
 markdown_extensions:
-	- pymdownx.magiclink:
-		- repo_url_shorthand: true
-			- user: gmpfeifer
-			- repo: gmpfeifer-mkdocs-publisher
-	- pymdownx.betterem:
-		- smart_enable: all
 	- md_in_html
 ```
 
