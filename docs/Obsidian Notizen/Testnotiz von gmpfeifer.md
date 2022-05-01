@@ -36,9 +36,9 @@ Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 ````
 
 #### In der mkdocs.yml
-``` yaml
+```yaml title="mkdocs.yml"
 markdown_extensions:
-- md_in_html
+	- md_in_html
 ```
 
 
