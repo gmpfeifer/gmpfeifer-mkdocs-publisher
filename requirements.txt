@@ -6,4 +6,5 @@ mkdocs-awesome-pages-plugin
 mdx_breakless_lists
 mkdocs-preview-links-plugin
 mkdocs-embed-file-plugins
+mkdocs-roamlinks-plugin
 Markdown
