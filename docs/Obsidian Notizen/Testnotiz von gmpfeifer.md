@@ -37,7 +37,14 @@ Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 
 #### In der mkdocs.yml
 ```yaml title="mkdocs.yml"
+# Extensions
 markdown_extensions:
+	- pymdownx.magiclink:
+		- repo_url_shorthand: true
+			- user: gmpfeifer
+			- repo: gmpfeifer-mkdocs-publisher
+	- pymdownx.betterem:
+		- smart_enable: all
 	- md_in_html
 ```
 
