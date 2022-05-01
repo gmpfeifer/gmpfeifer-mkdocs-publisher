@@ -37,7 +37,7 @@ Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 
 #### In der mkdocs.yml
 folgendes bei den Extensions hinzufügen
-```yaml title="mkdocs.yml" hl_lines="2"
+```yaml title="mkdocs.yml" hl_lines="3"
 # Extensions
 markdown_extensions:
 	- md_in_html
