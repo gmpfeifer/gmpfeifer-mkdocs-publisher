@@ -5,10 +5,13 @@ category: Obsidian Notizen
 ---
 # Testnotiz von gmpfeifer
 
-Obsidian
-gmpfeifer
+~~Test Test~~
+==Hallo Hallo?==
+**Ist da wer?**
 
-so
+
+### "Ergebniskästchen"
+**Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht**:
 
 ``` markdown title="Keyboard keys"
 ++ctrl+alt+del++
@@ -20,6 +23,18 @@ so
 ++ctrl+alt+del++
 
 </div>
+
+#### In Obsidian folgendes einfügen
+````markdown title="Keyboard keys"
+	```markdown title="Keyboard keys"
+	++ctrl+alt+del++
+	```
+	
+	<div class="result" markdown>
+	++ctrl+alt+del++
+	</div>
+````
+
 
 
 Graph Test
