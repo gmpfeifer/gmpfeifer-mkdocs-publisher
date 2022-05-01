@@ -37,8 +37,8 @@ Das folgende "Ergebniskästchen" wurde mit einer Anpassung verwirklicht:
 
 #### In der mkdocs.yml
 ``` yaml
-	markdown_extensions:
-		- md_in_html
+markdown_extensions:
+	- md_in_html
 ```
 
 
