@@ -26,9 +26,11 @@
     filter: saturate(200%);
 }
 
+/* 
 .md-footer {
     display: none;
 }
+*/
 
 .dataview {
     display: none !important;
