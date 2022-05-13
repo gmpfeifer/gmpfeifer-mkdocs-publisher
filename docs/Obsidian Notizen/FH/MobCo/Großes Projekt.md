@@ -40,6 +40,6 @@ https://www.amazon.de/gp/product/B015UDUAKG/ref=ppx_yo_dt_b_asin_title_o00_s01?i
 Um das Raspberry Pi Compute Modul 4 verwenden zu können musste zu Beginn ein Betriebssystem auf das eMMC Modul geflasht werden. 
 Zuerst wurde das CM4 auf das IO Board platziert. Auf dem nachfolgenden Foto ist außerdem bereits zu sehen, wie die externe Stromversorgung (liegender Stecker), der Lüfter für das Gehäuse (stehender 3-Pin Stecker) und ein LAN-Kabel verbunden wurde.
 
-![[IMG_0102.png]]
+![[compute-module-io.png]]
 
 Dann muss am 'J2' Jumper auf dem IO Board auf das erste Paar von links ein Jumper gesetzt werden
