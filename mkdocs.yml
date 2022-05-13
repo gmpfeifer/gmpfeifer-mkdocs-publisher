@@ -35,6 +35,8 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
+    - navigation.instant
+    - toc.follow
 
 # Extensions
 markdown_extensions:
@@ -83,7 +85,10 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
-  - search
+  - search:
+    lang:
+      - de
+      - en
   - ezlinks:
       wikilinks: true
   - mermaid2
