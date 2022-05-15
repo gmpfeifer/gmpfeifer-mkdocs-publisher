@@ -125,20 +125,19 @@ extra:
       link: https://www.xing.com/profile/GeorgMichael_Pfeifer/cv
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/georg-michael-pfeifer-4355031b7/
-
-nav:
-  - Willkommen: index.md
-  - Obsidian Notizen:
-      - Obsidian Notizen/index.md
-      - FH:
-          - MobCo:
-              - Großes Projekt:
-                  - Hardware Beschaffung: Obsidian Notizen/FH/MobCo/Großes Projekt/Großes Projekt - Hardwarebeschaffung.md
-                  - Flashen des eMMC Moduls: Obsidian Notizen/FH/MobCo/Großes Projekt/Großes Projekt - eMMC flashen.md
-                  - Einrichtung der Software: Obsidian Notizen/FH/MobCo/Großes Projekt/Großes Projekt - Installation OMV.md
-              - Ideen & Experimente:
-                  - 11ty Installation: Obsidian Notizen/FH/MobCo/Ideen & Experimente/11ty Grundinstallation.md
-                  - Github Actions Runner: Obsidian Notizen/FH/MobCo/Ideen & Experimente/Github Actions Runner.md
-                  - Welches 11ty Starter Template: Obsidian Notizen/FH/MobCo/Ideen & Experimente/Welches Starter Template?.md
-      - Musiktheorie: Obsidian Notizen/Music Theory.md
-      - Testnotiz: Obsidian Notizen/Testnotiz von gmpfeifer.md
+#nav:
+# - Willkommen: index.md
+#- Obsidian Notizen:
+#   - Obsidian Notizen/index.md
+#  - FH:
+#     - MobCo:
+#        - Großes Projekt:
+#           - Hardware Beschaffung: Obsidian Notizen/FH/MobCo/Großes Projekt/Großes Projekt - Hardwarebeschaffung.md
+#          - Flashen des eMMC Moduls: Obsidian Notizen/FH/MobCo/Großes Projekt/Großes Projekt - eMMC flashen.md
+#         - Einrichtung der Software: Obsidian Notizen/FH/MobCo/Großes Projekt/Großes Projekt - Installation OMV.md
+#    - Ideen & Experimente:
+#       - 11ty Installation: Obsidian Notizen/FH/MobCo/Ideen & Experimente/11ty Grundinstallation.md
+#      - Github Actions Runner: Obsidian Notizen/FH/MobCo/Ideen & Experimente/Github Actions Runner.md
+#     - Welches 11ty Starter Template: Obsidian Notizen/FH/MobCo/Ideen & Experimente/Welches Starter Template?.md
+#- Musiktheorie: Obsidian Notizen/Music Theory.md
+#- Testnotiz: Obsidian Notizen/Testnotiz von gmpfeifer.md
